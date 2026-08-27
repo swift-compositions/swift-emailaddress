@@ -8,7 +8,7 @@ A validated email-address value type for Swift.
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/swift-foundations/swift-emailaddress.git", branch: "main")
+    .package(url: "https://github.com/swift-compositions/swift-emailaddress.git", branch: "main")
 ]
 ```
 

@@ -2,7 +2,7 @@
 # Triaged by AI-assisted bulk pass (2026-04-29).
 description: "RFC 5321, 5322, and 6531 email address parsing and validation for Swift."
 topics:
-  - foundations
+  - compositions
   - emailaddress
 homepage: "https://swift-institute.org"
 socialPreview:
